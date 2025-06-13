@@ -5,6 +5,7 @@
 
 🎓 **Computer Science Major with a Cybersecurity Focus**  
 📍 Edmond, OK | Oklahoma Christian University | Grad: May 2026  
+
 🚀 I'm on a mission to become a Cybersecurity Analyst by Summer 2026, with a background in IT support, network security, and hands-on labs through TryHackMe and picoCTF.
 🛡️ I'm passionate about protecting systems, analyzing threats, and solving real-world security challenges — always learning and building, from secure system design to advanced threat detection.
 
