@@ -5,19 +5,8 @@
 
 🎓 **Computer Science Major with a Cybersecurity Focus**  
 📍 Edmond, OK | Oklahoma Christian University | Grad: May 2026  
-🛡️ Passionate about protecting systems, analyzing threats, and solving real-world security challenges.
-
-
-🚀 I'm currently on a mission to become a **Cybersecurity Analyst** by Summer 2026.  
-🎓 Background in IT support, network security, and hands-on labs via TryHackMe & picoCTF.  
-🧠 Always learning – from secure system design to real-world threat detection.
-
----
-
-### 📊 GitHub Stats
-
-![Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elvismjema&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elvismjema&layout=compact&theme=dark)
+🚀 I'm on a mission to become a Cybersecurity Analyst by Summer 2026, with a background in IT support, network security, and hands-on labs through TryHackMe and picoCTF.
+🛡️ I'm passionate about protecting systems, analyzing threats, and solving real-world security challenges — always learning and building, from secure system design to advanced threat detection.
 
 ---
 
@@ -26,10 +15,9 @@
 - 🏅 Get CompTIA A+ certified (SY0-601)
 - 🛡️ Land a cybersecurity internship (blue team or SOC)
 - ☁️ Learn cloud security fundamentals (AWS, Azure)
-- 💼 Build a professional portfolio and resume
+- 💼 Build a professional portfolio
 
 ---
-
 
 ### 📫 How to reach me:
 
@@ -37,3 +25,10 @@
 - 🔗 [LinkedIn](https://linkedin.com/in/mjemaelvis)  
 - 🧑‍💻 [GitHub](https://github.com/elvismjema)
 > _“Security is not a product, but a process.” – Bruce Schneier_
+
+---
+
+### 📊 GitHub Stats
+
+![Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elvismjema&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elvismjema&layout=compact&theme=dark)
