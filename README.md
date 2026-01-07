@@ -14,7 +14,7 @@
 ### 🎯 Career Goals
 
 - 🏅 Get CompTIA Sec+ certified (SY0-601)  (inprogress)
-- 🛡️ Land a cybersecurity internship (blue team or SOC)
+- 🛡️ Land a cybersecurity internship or Full time roles (blue team or SOC)
 - ☁️ Learn cloud security fundamentals (AWS, Azure)
 - 💼 Build a professional portfolio
 
